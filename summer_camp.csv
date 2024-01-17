@@ -1,0 +1,11 @@
+﻿summercamp_id,class_name,sc_activity,no_of_students,sc_fees,START_DATE,END_DATE
+SC01,jr.kg,yoga,15,250,2023-03-04,2023-03-19
+SC02,playgroup,arts&crafts,20,200,2023-04-08,2023-04-23
+SC04,jr.kg,arts&crafts,21,350,2023-03-09,2023-03-24
+SC03,jr.kg,music,10,200,2023-05-06,2023-03-21
+SC05,playgroup,yoga,19,180,2023-04-09,2023-04-24
+SC06,sr.kg,music,17,400,2023-03-25,2023-04-09
+SC07,sr.kg,arts&crafts,22,225,2023-04-24,2023-05-09
+SC08,nursery,yoga,24,155,2023-03-15,2023-03-30
+SC09,Nursery,arts&crafts,10,120,2023-04-09,2023-04-24
+SC10,Nursery,music,12,100,2023-04-01,2023-04-15
